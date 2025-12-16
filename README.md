@@ -27,8 +27,8 @@ Model Layer<br>
 
 ## Usage
 ```swift
-// Preview example<br>
-WalletView()<br>
+// Preview example
+WalletView()
     .environmentObject(MainCoordinator(rootCoordinator: RootCoordinator()))
     .environmentObject(WalletListViewModel())
 ```
